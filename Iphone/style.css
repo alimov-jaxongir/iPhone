@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(32, 32, 219);
+}
+.iphone{
+    width: 38vh;
+    height: 80vh;
+    background-color: rgb(32, 29, 29);
+  border: 5px solid black;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 35px;
+  position: relative;
+  box-sizing: border-box;    
+}
+.camera{
+    background-color: rgb(0, 0, 0);
+  position: absolute;
+width: 16%;
+height: 18%;
+margin: 14px;
+border: 2.5px solid rgb(221, 214, 214);
+border-radius: 25px;
+padding: 1px;
+box-sizing: border-box;
+}
+.cam1{
+    
+  border-radius: 50%;
+  width: 55%;
+  height: 23%;
+  background-color:rgb(27, 25, 25);
+margin: auto;
+position: relative;
+
+}
+.cam2{
+    border-radius: 50%;
+    width: 55%;
+    height: 23%;
+    background-color:rgb(0, 0, 0);
+    margin: auto;
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+}
+.il{
+    margin-top: 7px;
+}
+.cam11{
+    border-radius: 50%;
+    background-color: rgb(0, 0, 19);
+    width: 70%;
+    height: 70%;
+    margin-left: 2.2px;
+    margin-top: 2px;
+    position: absolute;
+   
+    
+}
+.cam22{
+    border-radius: 50%;
+    background-color: rgb(241, 235, 235);
+    width: 85%;
+    height: 85%;
+    margin:auto;
+    margin-top:1px;
+}
+ .icon{
+ margin-left:35%;
+ position: absolute;
+margin-top: 50%;
+}
+h2{
+    margin-left:35%;
+    position: absolute;
+    margin-top: 150%;
+}
+.ss{
+    border: 1px solid black;
+    width:6%;
+    height: 3%;
+    border-radius: 30%;
+    margin-left:49%;
+    position: absolute;
+    margin-top: 162%;
+    
+}
+.ss h6{
+    
+    text-align: center;
+}
+.power{
+    border: 3px solid black;
+    height: 40px;
+    width: 0; 
+    position: absolute;
+    margin-top: 50%;
+    margin-left: -3%;
+}
+.chzq{
+    border: 2px solid black;
+    height: 20px;
+    width: 0;
+    position: absolute;
+    margin-top: 23%;
+    margin-left: 101.3%;
+}
+.chzq1{
+    border: 3px solid black;
+    height: 30px;
+    width: 0;
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 100.5%;
+ 
+}.chzq2{
+    border: 3px solid black;
+    height: 30px;
+    width: 0;
+    position: absolute;
+    margin-top: 58%;
+    margin-left: 100.5%;
+   
+}
+.p1{
+    position: absolute;
+    margin-left: 27%;
+    font-size: 7px;
+    margin-top:170% ;
+    text-align: center;
+}
+.p2{
+    position: absolute;
+    margin-left: 22%;
+    font-size: 7px;
+    margin-top: 175%;
+}
+.footer{
+    text-align: center;
+    margin-top: 30px;
+    color: wheat;
+    font-family: cursive,serif;
+}
+
